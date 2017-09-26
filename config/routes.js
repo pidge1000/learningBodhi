@@ -24,6 +24,15 @@ module.exports.routes = {
     view: 'homepage'
   },
 
+  '/user': {
+    view: 'homepage'
+  },
+
+
+  '/userpage': {
+    view: 'homepage'
+  },
+
 
 
   /***************************************************************************
